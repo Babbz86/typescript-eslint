@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@typescript-eslint/types": "7.17.0",
-    "@typescript-eslint/visitor-keys": "7.17.0",
+    "@typescript-eslint/visitor-keys": "3.5.0",
     "debug": "^4.3.4",
     "globby": "^11.1.0",
     "is-glob": "^4.0.3",
